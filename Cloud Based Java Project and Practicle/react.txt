@@ -1,0 +1,7 @@
+node -v==>Check version
+install and create react app
+npm install -g create-react-app
+create project
+create-react-app demo.project
+
+npm start 
